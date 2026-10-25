@@ -1,0 +1,5 @@
+﻿modelo,rmse,mape_porcentaje,poblacion_final
+Determinístico (exponencial),29.212,1.662,2100.0
+Discreto,41.668,1.741,2012.801
+Estocástico,66.308,2.473,1951.085
+Continuo (Euler),27.204,1.581,2090.467
